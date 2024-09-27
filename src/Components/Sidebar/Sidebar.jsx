@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { ThemeContext } from "../../Theme/themeContext";
 import { Typography, Box, Stack, Button, IconButton, useMediaQuery } from '@mui/material';
-import icon from '../../Assets/newchat.png';
+import icon from '../../assets/newchat.png';
 import { Link } from 'react-router-dom';
 import AddCommentIcon from '@mui/icons-material/AddComment';
 import CloseIcon from '@mui/icons-material/Close';
